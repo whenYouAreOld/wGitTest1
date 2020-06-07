@@ -1,6 +1,6 @@
 %HopInumber=zeros();
 structa= struct();
-
+%add this line
 structa(1,2).name = 'hahah';
 
 
